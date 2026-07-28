@@ -13,3 +13,9 @@ env/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Quarto render output
+README.html
+README_files/
+*_files/
+/.quarto/
